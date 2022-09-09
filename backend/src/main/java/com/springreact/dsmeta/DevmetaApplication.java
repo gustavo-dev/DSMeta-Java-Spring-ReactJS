@@ -1,4 +1,4 @@
-package com.springreact.devmeta;
+package com.springreact.dsmeta;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
