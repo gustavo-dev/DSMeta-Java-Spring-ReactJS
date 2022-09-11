@@ -3,6 +3,6 @@ id: number;
 sellerName: string;
 visited: number;
 amount: number;
-date: date;
+date: string;
 deals: number;
 }
